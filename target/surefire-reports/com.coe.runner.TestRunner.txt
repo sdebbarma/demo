@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: com.coe.runner.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 32, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 69.977 s <<< FAILURE! - in com.coe.runner.TestRunner
+Then the result should be "3"(| 2 | 0 | 3 |)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: expected:<3> but was:<2>
+
+| 2 | 0 | 3 |  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: expected:<3> but was:<2>
+
