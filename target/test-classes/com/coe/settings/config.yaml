@@ -1,8 +1,0 @@
-# Details of a user
----
-isbn: "https://www.googleapis.com/books/v1/volumes" 
-baseUrl: " http://www.idbi.com/auto-loan-calculator.asp"
-
-settings:
-  isbn: "https://www.googleapis.com/books/v1/volumes"
-  baseUrl: " http://www.idbi.com/auto-loan-calculator.asp"
